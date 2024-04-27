@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.github.fmeum.rules_jni","l":"RulesJni"}]
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.github.fmeum.rules_jni","l":"RulesJni"}];updateSearchResults();
